@@ -2,7 +2,6 @@
 opcion = ""
 
 while opcion != '3':
-    # Muestra las opciones del menú
     print("\nMenú de Opciones")
     print("1. Suma")
     print("2. Resta")
