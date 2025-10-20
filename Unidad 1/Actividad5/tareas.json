@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "texto": "Gestor de Tareas",
+        "descripcion": "Crear un gestor de tareas",
+        "completada": false,
+        "tipo": "normal"
+    },
+    {
+        "id": 2,
+        "texto": "Tarea API rest",
+        "descripcion": "Estudiar para el examen",
+        "completada": false,
+        "tipo": "urgente",
+        "prioridad": "Media"
+    },
+    {
+        "id": 3,
+        "texto": "Entregar tarea de Automatas",
+        "descripcion": "Entregar la tarea",
+        "completada": false,
+        "tipo": "normal"
+    },
+    {
+        "id": 5,
+        "texto": "Estudiar",
+        "descripcion": "Estudiar para la materia API rest",
+        "completada": false,
+        "tipo": "urgente",
+        "prioridad": "Alta"
+    },
+    {
+        "id": 6,
+        "texto": "Mandar tareas ",
+        "descripcion": "Automatas",
+        "completada": false,
+        "tipo": "normal"
+    }
+]
